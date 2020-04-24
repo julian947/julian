@@ -13,7 +13,7 @@ class SeederPreguntas extends Seeder
     {
         Pregunta::truncate(); // Evita duplicar datos
 
-        //preguntas de futbol
+        //Preguntas de futbol
 
         $preguntas = new Pregunta();
         $preguntas->id = "1";
