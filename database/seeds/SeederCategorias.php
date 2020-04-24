@@ -17,5 +17,20 @@ class SeederCategorias extends Seeder
         $categorias->id = "1";
         $categorias->nombre = "Futbol";
         $categorias->save();
+
+        $categorias = new Categoria();
+        $categorias->id = "2";
+        $categorias->nombre = "Basquet";
+        $categorias->save();
+
+        $categorias = new Categoria();
+        $categorias->id = "3";
+        $categorias->nombre = "tenis";
+        $categorias->save();
+
+        $categorias = new Categoria();
+        $categorias->id = "4";
+        $categorias->nombre = "hockey";
+        $categorias->save();
     }
 }

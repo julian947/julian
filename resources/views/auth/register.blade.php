@@ -46,16 +46,16 @@
                             <div class="col-md-6" id="contenido">
                                 <select id="pais" name="pais">
                                     <option value=""></option>
-                                </select>  
+                                </select>
                         </div>
                       </div>
                       <div class="form-group row">
                         <label for="password" class="col-md-4 col-form-label text-md-right">Provincia</label>
 
                         <div class="col-md-6" id="contenido">
-                            <select id="provincias">
+                            <select id="provincias" from-control>
                                 <option value=""></option>
-                            </select>  
+                            </select>
                     </div>
                   </div>
                         <div class="form-group row">

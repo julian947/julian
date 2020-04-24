@@ -30,14 +30,6 @@ button{margin: 5px; border: 0px; padding: 5px; cursor: pointer;}
     padding: 2%;
 }
 
-.{
-	margin: 0;
-	padding: 0;
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
 ul,ol{
 	list-style: none;
 }
@@ -122,27 +114,4 @@ ul,ol{
 
 .right{
 	right: 10px;
-}
-
-
-@media screen and (max-width: 600px){
-	.slider .caption p{
-		display: none;
-	}
-
-	.slider .caption h1{
-		font-size: 35px;
-	}
-
-	.left, .right{
-		font-size: 30px;
-	}
-
-	.slider li img{
-		width: 400px;
-	}
-
-	.pagination{
-		display: none;
-	}
 }

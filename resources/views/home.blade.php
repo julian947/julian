@@ -14,7 +14,7 @@
                     <div class="modal-dialog text-center container" style="opacity:0.8;">
                       <div class="col-sm-12 text-center">
                         <div class="modal-content">
-                      <h1 style="vertical-align: inherit; color:red; font-family: 'Arial', serif;font-size:70px; ">DEPORTRIVIA</font></h1>
+                      <h1 style="vertical-align: inherit; color:red; font-family: 'Arial', serif;font-size:60px; ">DEPORTRIVIA</font></h1>
                     </div>
                     </div>
                     </div>
@@ -28,7 +28,7 @@
 
                           <div class="homebox">
                           <div class="desc">
-                            <p style="vertical-align: inherit; color: white; font-family: 'Magra', sans-serif; font-size:28px;" ><strong> Es un gran juego de preguntas y respuestas que te hace pensar, a la ves divertirte, y que demuestres todos tus conocimientos sobre diferentes deportes. Es una aplicacion que brinda una gran oportunidad de pasar una tarde excepcional con amigos o familia.</p>
+                            <p style="vertical-align: inherit; color: white; font-family: 'Magra', sans-serif; font-size:28px;" ><strong> Es un gran juego de preguntas y respuestas que te hace pensar, a la ves divertirte, y que demuestres todos tus conocimientos sobre diferentes deportes. Ademas brinda una gran oportunidad de pasar una tarde excepcional con amigos o familia.</p>
                             </div>
                     </div>
                     </div>
@@ -89,17 +89,6 @@
 
                        	</div>
 
-                      <ul class="nav nav-pills nav-fill text-center">
-
-                      <li class="nav-item text-center">
-                      <button class="btn btn-primary p-0" name="button" style="font-family: 'Magra', sans-serif;"><strong><a class="nav-link text-white" href="Ingresar.php">¿Tenes cuenta? Ingresa</button></a>
-                     <br><br>
-                      <button class="btn btn-primary p-0" name="button" style="font-family: 'Magra', sans-serif;"><strong><a class="nav-link text-white" href="Registro.php">¿No tenes cuenta? Registrate</button></a>
-                      </li>
-
-                    </ul>
-
-                    <br><br>
                       <footer>
                        <div class="text-center bg-dark" style="opacity:0.8; color:white;"> Copyrigth JUEGO. Todos los derechos son reservados.</div>
                        </footer>
