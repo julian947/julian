@@ -3,6 +3,7 @@ body{
 background-size: 50%;
 transition:.40s; background: #EEEEEE; color: black}
 
+/* cambio de fondo */
 .black{background-image:url(../images/oscuro.jpg); color:black;}
 
 button{margin: 5px; border: 0px; padding: 5px; cursor: pointer;}
